@@ -41,6 +41,7 @@
     }
 
     return obj;
+   return game;
   }
 
   function _objectSpread(target) {
